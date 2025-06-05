@@ -1,1 +1,4 @@
-# second_repo
+# Mine_project
+## Learning vc
+* git
+* Github
